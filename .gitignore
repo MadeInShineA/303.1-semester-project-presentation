@@ -1,0 +1,5 @@
+.git/
+
+
+/.quarto/
+**/*.quarto_ipynb
