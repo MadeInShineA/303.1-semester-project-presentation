@@ -2,18 +2,26 @@
 title: "303.1 Semester Project Presentation"
 format:
   revealjs:
-    theme: sky
+    theme: default
+    center: true
     transition: fade
     incremental: false
     slide-number: true
     preview-links: auto
     navigation-mode: grid
     footer: "303.1 Semester Project Presentation| © 2025"
-    logo: 
-      path: "https://avatars.githubusercontent.com/u/108901596?s=200&v=4"
-      width: 200
-      height: 200
-      placement: "top-left"
 ---
+
+# What is my project about?
+
+  - Contributing to [DIPY](https://dipy.org/)
+  - Implementing a predict function to the GQI model
+
+# Impact
+  - Head motion noise reduction
+  - Meaningful data augmentation
+  - Model cross validation
+
+
 
 
